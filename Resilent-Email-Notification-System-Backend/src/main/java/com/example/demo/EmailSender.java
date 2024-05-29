@@ -14,8 +14,8 @@ public class EmailSender {
 
     public static void sendEmail(String recipient, String subject, String content) {
         executorService.submit(() -> {
-            final String senderEmail = "kushalshetty2002@gmail.com";
-            final String senderPassword = "auey jojw umus lvem";
+            final String senderEmail = "yourmailid@gmail.com";
+            final String senderPassword = "your app password";
             Properties props = new Properties();
             props.put("mail.smtp.auth", "true");
             props.put("mail.smtp.starttls.enable", "true");
