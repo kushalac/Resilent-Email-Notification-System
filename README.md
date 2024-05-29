@@ -8,6 +8,8 @@ This project implements a resilient email notification system using Kafka, React
 
 ![Architecture](https://github.com/kushalac/Resilent-Email-Notification-System/blob/master/images/Architeture.png?raw=true)
 
+For `Workflow` you can refer to `images`
+
 ## Setup for Resilient Email Notification System Backend
 
 ### Kafka Setup
