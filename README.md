@@ -8,7 +8,7 @@ This project implements a resilient email notification system using Kafka, React
 
 ![Architecture](https://github.com/kushalac/Resilent-Email-Notification-System/blob/master/images/Architeture.png?raw=true)
 
-## Setup
+## Setup for Resilient Email Notification System Backend
 
 ### Kafka Setup
 
@@ -48,6 +48,8 @@ This project implements a resilient email notification system using Kafka, React
 - **React:** Frontend framework for user interfaces.
 - **Spring:** Backend framework for application development.
 - **MongoDB:** NoSQL database for data storage.
+
+## Setup for Resilient Email Notification System Frontend
 
 # Getting Started with Create React App
 
