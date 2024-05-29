@@ -51,7 +51,7 @@ This project implements a resilient email notification system using Kafka, React
 
 ## Setup for Resilient Email Notification System Frontend
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
