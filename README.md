@@ -1,6 +1,8 @@
 # Resilient Email Notification System Overview
 
 This project implements a resilient email notification system using Kafka, React, Spring, and MongoDB. It includes features such as priority settings, user-based sequencing, single/bulk messaging, read operations, real-time cancellation, and detailed event logging.
+![Main Page](https://github.com/kushalac/Resilent-Email-Notification-System/blob/master/images/Main-page.png?raw=true)
+
 
 ## Setup
 
